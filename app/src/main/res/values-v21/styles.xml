@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <!--导航栏背景颜色-->
@@ -13,6 +13,7 @@
         <item name="colorAccent">@color/colorAccent</item>
         <!--窗体颜色-->
         <item name="android:windowBackground">@color/windowbackgroud</item>
+        <!--虚拟按键背景颜色-->
+        <item name="android:navigationBarColor">@color/windowbackgroud</item>
     </style>
-
 </resources>
