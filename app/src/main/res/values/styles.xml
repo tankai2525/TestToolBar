@@ -5,11 +5,11 @@
         <!-- Customize your theme here. -->
         <!--导航栏背景颜色-->
         <item name="colorPrimary">@color/colorPrimary</item>
-        <!--常用控件文本颜色，比如导航栏标题颜色，button-->
+        <!--常用控件文本颜色，比如导航栏标题颜色，button EditText-->
         <item name="android:textColorPrimary">@color/textColorPrimary</item>
         <!--手机顶部状态栏颜色（需要Android5.0以及以上的手机支持才行）-->
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <!--常用基本控件的颜色，比如EditText ProgressBar等等-->
+        <!--常用基本控件的颜色，比如EditText边框 ProgressBar等等-->
         <item name="colorAccent">@color/colorAccent</item>
         <!--窗体颜色-->
         <item name="android:windowBackground">@color/windowbackgroud</item>
